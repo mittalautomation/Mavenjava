@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="108" started-at="2019-03-20T08:50:26Z" finished-at="2019-03-20T08:50:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="108" started-at="2019-03-20T08:50:26Z" finished-at="2019-03-20T08:50:26Z">
+      <class name="com.qatester.app.SeleniumTest3">
+        <test-method status="PASS" signature="userhome()[pri:0, instance:com.qatester.app.SeleniumTest3@28feb3fa]" name="userhome" duration-ms="0" started-at="2019-03-20T14:20:26Z" finished-at="2019-03-20T14:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userhome -->
+        <test-method status="PASS" signature="AdminHome()[pri:0, instance:com.qatester.app.SeleniumTest3@28feb3fa]" name="AdminHome" duration-ms="0" started-at="2019-03-20T14:20:26Z" finished-at="2019-03-20T14:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdminHome -->
+      </class> <!-- com.qatester.app.SeleniumTest3 -->
+      <class name="com.qatester.app.SeleniumTest2">
+        <test-method status="PASS" signature="Adminlogin()[pri:0, instance:com.qatester.app.SeleniumTest2@68be2bc2]" name="Adminlogin" duration-ms="15" started-at="2019-03-20T14:20:26Z" finished-at="2019-03-20T14:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Adminlogin -->
+        <test-method status="PASS" signature="userlogin()[pri:0, instance:com.qatester.app.SeleniumTest2@68be2bc2]" name="userlogin" duration-ms="0" started-at="2019-03-20T14:20:26Z" finished-at="2019-03-20T14:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userlogin -->
+      </class> <!-- com.qatester.app.SeleniumTest2 -->
+      <class name="com.qatester.app.SeleniumTest">
+        <test-method status="PASS" signature="Adminpasscheck()[pri:0, instance:com.qatester.app.SeleniumTest@2a2d45ba]" name="Adminpasscheck" duration-ms="15" started-at="2019-03-20T14:20:26Z" finished-at="2019-03-20T14:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Adminpasscheck -->
+        <test-method status="PASS" signature="Passwordcheck()[pri:0, instance:com.qatester.app.SeleniumTest@2a2d45ba]" name="Passwordcheck" duration-ms="0" started-at="2019-03-20T14:20:26Z" finished-at="2019-03-20T14:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Passwordcheck -->
+      </class> <!-- com.qatester.app.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
